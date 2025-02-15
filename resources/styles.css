@@ -117,7 +117,7 @@ a{
         flex-direction: column;
         gap: 0;
         background-color: #fcf9f2;
-        padding: 5rem;
+        padding: 5%;
     }
     .hero img{
         height: auto;
