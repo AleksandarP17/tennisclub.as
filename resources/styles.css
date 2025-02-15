@@ -120,8 +120,8 @@ a{
         padding: 5rem;
     }
     .hero img{
-        height: 100%;
-        width: 100%;
+        height: auto;
+        width: 5rem;
     }
     .hero button{
         color: #CCFF00;
