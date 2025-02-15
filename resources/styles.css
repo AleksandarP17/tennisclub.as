@@ -121,7 +121,8 @@ a{
     }
     .hero img{
         height: auto;
-        
+        width: 100%;
+        max-width: 20rem;
     }
     .hero button{
         color: #CCFF00;
